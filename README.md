@@ -1,4 +1,4 @@
-## 👋🏻 Hey!, I'm Orangel Jose
+## Eh!, I'm Orangel Jose 👋🏼👨🏻‍💻
 <p><em>Frontend Developer</em></p>
 
 ```JS
