@@ -5,7 +5,6 @@
 const lonchop = {
     pronouns: "He" | "Him",
     code: ["HTML", "CSS", "JavaScript", "React", "Tailwind"],
-    askMeAbout: ["web dev", "tech"],
 };
 ```
 
