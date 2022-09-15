@@ -11,16 +11,7 @@ const lonchop = {
 
 ## ✨ Find me in other places
 
-- In Linkedin [Leonardo Espinoza](https://www.linkedin.com/in/leonardo-espinoza/)
-- Solving challenges in [Codewars](https://www.codewars.com/users/LeoCode0)
-- Developing web apps in [Frontendmentor](https://www.frontendmentor.io/profile/LeoCode0/)
-
-## 💪🏻 My Top 3 projects
-My top 3 projects in web development
-
-- [Teachers Dashboard](https://github.com/LeoCode0/teachersDashboard)
-- [Weather App](https://github.com/LeoCode0/WeatherApp/)
-- [Music Reproductor](https://github.com/LeoCode0/musicReproductor)
+- In Linkedin [Orangel Jose Gonzalez Urbina](https://www.linkedin.com/in/orangel-gonzalez/)
 
 ## 💻 Tecnologies that I use
 ### - Languages and Tools...
