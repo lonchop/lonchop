@@ -4,7 +4,7 @@
 ```JS
 const lonchop = {
     pronouns: "He" | "Him",
-    code: ["html", "css", "Javascript", "React", "Tailwind"],
+    code: ["HTML", "CSS", "JavaScript", "React", "Tailwind"],
     askMeAbout: ["web dev", "tech"],
 };
 ```
