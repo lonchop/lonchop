@@ -14,7 +14,7 @@ const lonchop = {
 
 ## 💻 Languages and Tools...
 
-<div align="center" style="display: flex; flex-direction: column">
+<div align="center" style="display: flex; flex-direction: row">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="html"  width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="css"  width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="javascript"  width="40" height="40">
