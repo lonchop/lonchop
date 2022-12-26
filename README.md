@@ -8,10 +8,6 @@ const lonchop = {
 };
 ```
 
-## ✨ Find me in other places
-
-- In Linkedin [Orangel Jose Gonzalez Urbina](https://www.linkedin.com/in/orangel-gonzalez/)
-
 ## 💻 Languages and Tools...
 
 <div align="center">
@@ -23,3 +19,7 @@ const lonchop = {
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="sass"  width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="figma"  width="40" height="40">
 </div>
+
+## ✨ Find me in other places
+
+- In Linkedin [Orangel Jose Gonzalez Urbina](https://www.linkedin.com/in/orangel-gonzalez/)
