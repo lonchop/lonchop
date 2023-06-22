@@ -4,7 +4,7 @@
 ```JS
 const lonchop = {
     pronouns: "He" | "Him",
-    code: ["HTML", "CSS", "JavaScript", "Typescript", "React", "Next", "Tailwind", "Figma"],
+    code: ["HTML", "CSS", "JavaScript", "Typescript", "React", "Vue", "Tailwind", "Figma"],
 };
 ```
 
@@ -16,7 +16,7 @@ const lonchop = {
     <img src="./assets/javascript-icon.svg" title="JS" alt="javascript"  width="40" height="40">
     <img src="./assets/typescript-icon.svg" title="TS" alt="typescript"  width="40" height="40">
     <img src="./assets/react-icon.svg" title="REACT" alt="react"  width="40" height="40">
-    <img src="./assets/next-icon.svg" title="NEXT" alt="next"  width="40" height="40"> 
+    <img src="./assets/vue-icon.svg" title="VUE" alt="vue"  width="40" height="40"> 
     <img src="./assets/tailwind-icon.svg" title="TailwindCSS" alt="tailwind"  width="40" height="40">
     <img src="./assets/figma-icon.svg" title="Figma" alt="figma"  width="40" height="40">
 </div>
